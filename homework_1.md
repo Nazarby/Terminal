@@ -1,6 +1,8 @@
-1) Посмотреть где я
-$ pwd
-/d/QA/homework/lesson_2_terminal
+|                  Задание                                                    |                          Решение                                               |
+|             1) Посмотреть где я                                     |         $ pwd /d/QA/homework/lesson_2_terminal                 |
+
+
+
 
 2) Создать папку
 Admin@DESKTOP-J75FC43 MINGW64 /d/QA/homework/lesson_2_terminal
