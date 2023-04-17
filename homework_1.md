@@ -4,7 +4,7 @@
 |2) Создать папку|$ mkdir test|-|
 |3) Зайти в папку|$ cd test|-|
 |4) Создать 3 папки|$ mkdir test1 test2 test3|-|
-|5) Зайти в любоую папку|$ cd ./test3|-|
+|5) Зайти в любоую папку|$ cd test3|-|
 |6) Создать 5 файлов (3 txt, 2 json)|$ touch file_1t.txt file_2t.txt file_3t.txt file_1j.json file_2j.json|-|
 |7) Создать 3 папки|$ mkdir test4 test5 test6|-|
 |8. Вывести список содержимого папки|$ ls -la|-|
