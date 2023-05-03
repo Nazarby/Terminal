@@ -28,18 +28,10 @@ curl -v http://162.55.220.72:5005/terminal-hw-request
 
 **2)&#9913; Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13**
 
-* $ cat > myscript  
-  #!/bin/bash  
-  cd main_dir  
-  mkdir dir1 dir2 dir3  
-  cd dir3  
-  touch file1.txt file2.txt file3.txt file4.json file5.json  
-  mkdir dir3_1 dir3_2 dir3_3  
-  ls -la  
-  mv dir3/file4.json dir3/file5.json dir2  
-  *CTRL + c*  
- * $ chmod +x ./myscript
- * $ ./myscript
+ |$ cat > myscript.sh| [myscript.sh](homework1/myscript.sh)   |  
+ |:---|:---  |
+ |$ chmod +x ./myscript.sh|   Делаем файл исполняемым |
+ |$ ./myscript.sh| Запускаем скрипт  |
 
 
 
